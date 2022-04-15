@@ -10,3 +10,5 @@ prompt("Digite sua idade");
 
 prompt("Agora digite a idade de seu melhor amigo");
 
+//// comparando sua idade com seu melhor amigo ///
+
