@@ -4,4 +4,9 @@
 
 // solicitando idade
 
-prompt(“Digite sua idade”);
+prompt("Digite sua idade");
+
+// Solicitando idade do seu melhor amigo.
+
+prompt("Agora digite a idade de seu melhor amigo");
+
