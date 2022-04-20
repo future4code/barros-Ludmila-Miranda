@@ -32,4 +32,5 @@
 
 // ---- EXERCÍCIOS INTERPRETATIVOS -----
 
+prompt ("Qual é o seu email?")
 
