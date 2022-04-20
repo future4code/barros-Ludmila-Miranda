@@ -1,5 +1,6 @@
-let array
-console.log('a. ', array)
+//let array
+//console.log('a. ', array)
+// 
 
 array = null
 console.log('b. ', array)
