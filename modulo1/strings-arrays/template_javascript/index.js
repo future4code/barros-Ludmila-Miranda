@@ -47,4 +47,7 @@ Seja bem vindo ${let2}`)
 // EXERCICIO 2 
 
 
-
+const meuArray [`Frango frito
+Churrasco
+Açaí
+`]
