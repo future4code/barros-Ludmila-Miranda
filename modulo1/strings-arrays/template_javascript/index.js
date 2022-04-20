@@ -15,3 +15,7 @@ console.log('e. ', array)
 
 const valor = array[i+6]
 console.log('f. ', valor)
+
+
+// Exercício 2 não vai se alterar porque quando -const- não permite alterar a variável.
+// portanto não se altera.
