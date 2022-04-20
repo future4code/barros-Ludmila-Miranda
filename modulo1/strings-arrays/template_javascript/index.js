@@ -30,7 +30,21 @@
 
 // SUBI NUM ONIBUS EM MIRROCOS
 
-// ---- EXERCÍCIOS INTERPRETATIVOS -----
+// ---- EXERCÍCIOS INTERPRETATIVOS ENCERRADOS -----
 
+// ---- INICIO EXERCICIO ESCRITA ------
+
+// EXERCICIO 1 --------
 prompt ("Qual é o seu email?")
+let1 = "emailDoUsuário"
+let2 = "NomedoUsuário"
+console.log (` O email ${let1} foi inserido com sucesso!
+Seja bem vindo ${let2}`)
+
+// ---- console não está imprimindo segundo erro informado anteriormente 
+// e em print cedido
+
+// EXERCICIO 2 
+
+
 
