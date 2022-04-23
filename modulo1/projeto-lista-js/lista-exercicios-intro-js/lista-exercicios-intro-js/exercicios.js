@@ -2,15 +2,19 @@
 
 // EXERCÍCIO 0A
 function soma(num1, num2) {
-  // implemente sua lógica aqui
-  return num1 + num2
-}
+  let number1 = 4
+  let number2 = 6
+  return number1 + number2
 
+}
+soma (number1,number2)
+// resultado esperado é 10
 // EXERCÍCIO 0B
 function imprimeMensagem() {
-  // implemente sua lógica aqui
+  let = "digite uma mensagem"
   const mensagem = prompt('Digite uma mensagem!')
 
+  imprimeMensagem (let)
   console.log(mensagem)
 }
 
@@ -24,7 +28,13 @@ function calculaAreaRetangulo() {
 
 // EXERCÍCIO 02
 function imprimeIdade() {
-  // implemente sua lógica aqui
+  let anoAtual = 2022
+  let anoNasc = 1990
+
+  return (anoAtual - anoNasc)
+
+// resposta esperada = 32 na verdade e 31, mas n computa meses.
+
 
 }
 
