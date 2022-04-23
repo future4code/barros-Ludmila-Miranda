@@ -40,14 +40,28 @@ function imprimeIdade() {
 
 // EXERCÍCIO 03
 function calculaIMC(peso, altura) {
-  // implemente sua lógica aqui
+   let altura = 1.67
+   let peso = 52
+
+   return altura*altura
+   return peso / altura2
+
+
+   // resposta esperada 18.6
+
 
 }
 
 // EXERCÍCIO 04
-function imprimeInformacoesUsuario() {
-  // implemente sua lógica aqui
-  // "Meu nome é NOME, tenho IDADE anos, e o meu email é EMAIL."
+
+let nome = Ludmila
+let idade = 31
+let email = ludlulk@gmail.com
+function MensagemUsuario() {
+  return `Meu nome é ${nome}, tenho ${idade} anos e o mail email é ${email}`
+ 
+  console.log = 
+  // resposta esperada "Meu nome é Ludmila, tenho 31 anos, e o meu email é ludlulk@gmail.com."
 
 }
 
