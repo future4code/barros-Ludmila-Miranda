@@ -15,4 +15,10 @@
 // b)  o resultado é 'o preço da fruta maçã é R$ 2.25
 //c)  o resultado é 'O preço da fruta  pêra  é  R$  5'
 
+/// exercício de interpretação 3 
 
+///a) Número testado 3 = esse número passou no teste
+/// b) Número testado 10 = esse número passou no teste e um erro na parte da mensagem oculta
+/// número testado -10 = erro
+  
+/// c)
