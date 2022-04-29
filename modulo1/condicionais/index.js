@@ -11,4 +11,8 @@
 
 /// exercício de interpretação 2 ////
 
-//
+//a) o código localiza o preço da fruta escolhida
+// b)  o resultado é 'o preço da fruta maçã é R$ 2.25
+//c)  o resultado é 'O preço da fruta  pêra  é  R$  5'
+
+
