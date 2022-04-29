@@ -21,4 +21,8 @@
 /// b) Número testado 10 = esse número passou no teste e um erro na parte da mensagem oculta
 /// número testado -10 = erro
   
-/// c)
+/// c) pelo que eu entendi o número negativo não é uma variável válida.
+
+//---------------------------------------------------------------------------------------------------
+
+
