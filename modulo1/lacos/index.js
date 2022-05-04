@@ -48,7 +48,7 @@ if (quantidadePet = 0)
 
 
 
-cons
+let Arrayrock []
 
   
   
