@@ -13,7 +13,7 @@
   // const lista = [10, 11, 12, 15, 18, 19, 21, 23, 25, 27, 30]
 //for (let numero of lista) {
   //  if (numero > 18) {
-    //      console.log(numero)
+  //      console.log(numero)
       //}
   //}
   // a) os resultados no console são 19, 21, 23, 27 30
@@ -35,6 +35,20 @@
 // a) vão aparecer quatro linhas de * com quantidade crescente *,**,***,**** e o número 3
 
 
+// exercícios de escrita
+
+// exercício 1
+let = 'pet'
+prompt('Quantos pets você tem?')
+if (quantidadePet = 0)
+
+
+
+
+
+
+
+cons
 
   
   
