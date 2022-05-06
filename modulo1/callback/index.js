@@ -8,15 +8,7 @@
 
 //exercício 3
 
-const usuarios = [
-    { nome: "Amanda Rangel", apelido: "Mandi" },
-    { nome: "Laís Petra", apelido: "Laura" },
-    { nome: "Letícia Chijo", apelido: "Chijo" },
-  ]
-  
-  const novoArrayC = usuarios.filter((item, index, array) => {
-     return item.apelido !== "Chijo"
-  })
-  
-  console.log(novoArrayC)
+// a) no console mostra o índice (a posição) do item selecionado.
+
+
 
