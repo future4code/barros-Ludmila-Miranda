@@ -1,7 +1,7 @@
 
- *// EXEMPLO DE UTILIZAÇÃO DA 'comprarCarta'
- * 
- * 
+ // EXEMPLO DE UTILIZAÇÃO DA 'comprarCarta'
+  
+  
     //const carta = comprarCarta(); // Sorteia uma carta. Por exemplo, o rei de ouros
     
     //console.log(carta.texto) // imprime o texto da carta. Exemplo: "K♦️" (indica "K" de ouros)
