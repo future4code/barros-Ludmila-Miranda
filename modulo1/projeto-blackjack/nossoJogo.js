@@ -8,3 +8,9 @@
    // console.log(carta.valor) // imprime o valor da carta (um número). Exemplo: 10 (dado que "K" vale 10)
 
     prompt(`Bem vindo ao jogo de Blackjack!!`)
+
+    if(confirm("Você deseja jogar uma nova rodada?")) {
+      // o que fazer se o usuário clicar "ok"
+   } else {
+      // o que fazer se o usuário clicar "cancelar"
+   }
