@@ -33,7 +33,6 @@ function imprimeIdade() {
 
   return (anoAtual - anoNasc)
 
-// resposta esperada = 32 na verdade e 31, mas n computa meses.
 
 
 }
@@ -57,12 +56,10 @@ function calculaIMC(peso, altura) {
 let nome = Ludmila
 let idade = 31
 let email = ludlulk@gmail.com
-function mensagemUsuario() {
+function mensagemDoUsuario() {
   return `Meu nome é ${nome}, tenho ${idade} anos e o mail email é ${email}`
  
-  console.log = 
-  // resposta esperada "Meu nome é Ludmila, tenho 31 anos, e o meu email é ludlulk@gmail.com."
-
+  console.log (mensagemDoUsuario) 
 }
 
 // EXERCÍCIO 05
