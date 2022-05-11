@@ -7,7 +7,7 @@ function soma(num1, num2) {
   return number1 + number2
 
 }
-soma (number1,number2)
+console.log (number1 + number2)
 // resultado esperado é 10
 // EXERCÍCIO 0B
 function imprimeMensagem() {
