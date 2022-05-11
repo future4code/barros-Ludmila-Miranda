@@ -57,7 +57,7 @@ function calculaIMC(peso, altura) {
 let nome = Ludmila
 let idade = 31
 let email = ludlulk@gmail.com
-function MensagemUsuario() {
+function mensagemUsuario() {
   return `Meu nome é ${nome}, tenho ${idade} anos e o mail email é ${email}`
  
   console.log = 
