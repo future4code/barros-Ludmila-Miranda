@@ -1,22 +1,4 @@
-// EXEMPLOS DE IMPLEMENTAÇÃO ---------------------------------------------------------------
 
-// EXERCÍCIO 0A
-function soma(num1, num2) {
-  let number1 = 4
-  let number2 = 6
-  return number1 + number2
-
-}
-console.log (number1 + number2)
-// resultado esperado é 10
-// EXERCÍCIO 0B
-function imprimeMensagem() {
-  let = "digite uma mensagem"
-  const mensagem = prompt('Digite uma mensagem!')
-
-  imprimeMensagem (let)
-  console.log(mensagem)
-}
 
 // EXERCÍCIOS PARA FAZER ------------------------------------------------------------------
 
