@@ -5,7 +5,7 @@
 
 // EXERCÍCIO 01
 function retornaTamanhoArray(array) {
-   
+   const  numberArray [ 8 , 3 , 4 , 1  ]
 }
 
 // EXERCÍCIO 02
