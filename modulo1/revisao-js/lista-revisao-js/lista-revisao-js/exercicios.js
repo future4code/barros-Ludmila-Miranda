@@ -4,8 +4,9 @@
 
 
 // EXERCÍCIO 01
-function retornaTamanhoArray(array) {
-   const  numberArray [ 8 , 3 , 4 , 1  ]
+function retornaTamanhoArray(aniversarios) {
+   const aniversarios [8, 10, 13, 11] 
+
 }
 
 // EXERCÍCIO 02
