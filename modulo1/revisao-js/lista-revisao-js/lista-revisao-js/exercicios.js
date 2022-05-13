@@ -5,16 +5,20 @@
 
 // EXERCÍCIO 01
 function retornaTamanhoArray(aniversarios) {
-   const aniversarios = [8, 10, 13, 11] 
-   const tamanhoArray = aniversarios.lenght
+   const aniversarios = [8, 10, 13, 11];
+   const retornaTamanhoArray = aniversarios.lenght;
 
 
 }
 console.log(retornaTamanhoArray)
 // EXERCÍCIO 02
-function retornaArrayInvertido(array) {
+function retornaArrayInvertido(aniversarios) {
+    const aniversarios = [8, 10, 13, 11];
+    aniversarios.reverse();
   
 }
+console.log(aniversarios)
+
 
 // EXERCÍCIO 03
 function retornaArrayOrdenado(array) {
