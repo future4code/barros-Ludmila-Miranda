@@ -4,20 +4,20 @@
 
 
 // EXERCÍCIO 01
-function retornaTamanhoArray() {
- array
-   const retornaTamanhoArray = array.lenght;
-
+function retornaTamanhoArray(array) {
+ 
+   array =[];
+return array.length
 
 }
 console.log(retornaTamanhoArray)
 // EXERCÍCIO 02
-function retornaArrayInvertido(aniversarios) {
-    const aniversarios = [8, 10, 13, 11];
-    aniversarios.reverse();
+function retornaArrayInvertido() {
+    const array = [];
+    return array.reverse();
   
 }
-console.log(aniversarios)
+console.log(retornaArrayInvertido)
 
 
 // EXERCÍCIO 03
