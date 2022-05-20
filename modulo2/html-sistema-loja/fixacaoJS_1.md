@@ -1,7 +1,16 @@
 //function calculaSalario(qtdeCarrosVendidos, valorTotalVendas) {
  // Escreva seu código aqui
 
- let salario fixo = 2000
- let qtdeCarrosVendidos = 3 
- let valorTotalVendas = 130000 
+``` let salarioFixo = 2000
+``` let comissãoPorVenda = 100
+``` let comissãoPorcentagem = 0.05
+
+``` function calculaSalario 
+``` {salario = *salarioFixo + *comissãoPorVenda + *comissãoPorcentagem;
+``` return salario;}
+
+
+
+
  
+
