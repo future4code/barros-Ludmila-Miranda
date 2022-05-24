@@ -1,4 +1,4 @@
-.titulo{
+titulo{
     font-size: large;
     color:mediumaquamarine;
     text-align: center;
@@ -6,7 +6,7 @@
 }
 
 
-.body{
+body{
 
     font-size:medium;
     color: mediumaquamarine;
@@ -14,8 +14,7 @@
 
 }
 
-.background-color{
-    background-color: black;
 
-}
+
+
 
