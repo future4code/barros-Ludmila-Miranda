@@ -1,5 +1,9 @@
+body{
+    background-color: black;
+}
 h1{
     background-color: black;
     initial-letter-align: center;
-    font:message-box; color: aqua;
+    font:message-box; 
+    color: aqua;
 }
