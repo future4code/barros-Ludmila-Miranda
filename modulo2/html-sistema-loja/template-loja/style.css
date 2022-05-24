@@ -1,5 +1,8 @@
 body{
     background-color: black;
+    text-align: center;
+    font-display: none ;
+    color: goldenrod
 }
 h1{
     background-color: black;
