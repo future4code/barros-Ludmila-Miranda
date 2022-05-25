@@ -3,4 +3,18 @@ h1{
     font:bolder;
     color: gray;
     text-size-adjust: center;
+    size: 14px;
+    margin-top: 0px;
+}
+p{
+    background-color: grey;
+    font:bold;
+    text-align: center;
+    size: 13px;
+    margin-top: 5px;
+}
+body{
+    background: oldlace;
+
+
 }
