@@ -1,14 +1,6 @@
-body{ 
+title{
     background-color: black;
-    text-align: center;
-    font-display: none ; 
-    color: goldenrod;
-    font-size: 20px;
-}
-h1{
-    background-color: black;
-    initial-letter-align: center;
-    font:message-box; 
-    color: aqua;
-    font-size: 10px;
+    font:bolder;
+    color: gray;
+    text-size-adjust: center;
 }
