@@ -15,6 +15,9 @@ p{
 }
 body{
     background: oldlace;
-
-
+    text-align: center;
+    font: bold;
+    color: black;
+    size: 5px;
+    margin-top: 5px;
 }
