@@ -1,4 +1,14 @@
+#body{
+    margin: 0%;
+}
 
+
+#Menu{
+    display: flex;
+    background-color: black;
+    margin:0%
+
+}
 
 
 
