@@ -4,15 +4,111 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="portheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
     <title>Portfolio</title>
 </head>
+<style>
+
+#html{
+scroll-behavior: smooth;
+
+}
+
+#body{
+    margin: 0%;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+#footer{
+background-color: #07104f;
+padding: 30px;
+color:antiquewhite
+
+}
+#Menu{
+    display: flex;
+    background-color: black;
+
+    }
+#Menu li{
+    color:antiquewhite;
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+}
+#Menu li:first-child{
+    margin-right: auto;
+
+}
+
+.section1{
+    display: flex;
+    height: 100vh;
+    background-color: #a7d631;
+}
+.Centralize{
+    margin:auto;
+    text-align:center;
+
+}
+
+.ImagemProjeto{
+width: 15vh;
+width: 15vw;
+padding-left: 15px;
+}
+.section2{
+    display: flex;
+    height: 100vh;
+    background-color: antiquewhite;
+
+}
+.
+
+</style>
 <body>
-    <header class="header-conta">
-        <div class="checkbox-conta">
+    <nav>
+        <ul id="Menu">
+            <li>Logo</li>
+            <li>Home</li>
+            <li>Projetos</li>
+            <li>Contato</li>
+        </ul>
+    </nav>
+
+    <div class="section1">
+    <div class="Centralize">
+        <h1 style="color:#043007">Ludmila Abreu</h1>
+    <a href="#Projetos"><button class="BotãoMusgo"> Meus Projetos</button></a>
+</div>
+</div>
+
+
+<div id="Projetos" class="section2 Centralize">
+<table>
+    <tr>
+        <td width 40%><img class="ImagemProjeto" src="C:\Users\ludmi\barros-Ludmila-Miranda\modulo2\html-sistema-loja\template-loja\img\loja.jpg" alt="img"></td>
+        <td style= "width:60%; text-align: left">Descrição 
+            <ul style="color:#07104f">
+            Projeto Loja Virtual
+            <hr>
+            <li>Projeto em html básico de uma loja virtual</li>
+            <li>Uso de html e um pouco de CSS</li>
+        </ul></td>
+    </tr>
+</table>
+</div>
+<div>
+    <footer>
+        <h5 class="Centralize">
+            @Criado Por Ludmila Abreu
+        </h5>
+    </footer>
+</div>
+
 
             
-        </div>
+    
     </header>
 </body>
 </html>
