@@ -4,7 +4,7 @@ header{
   grid-template-columns: 90%, 10%;
   justify-items: start;
   margin: 0%;
-  padding: 0%;
+  padding: 0%;}
 
 
 
@@ -47,4 +47,3 @@ h1{
   #divBusca img{
     float:left;
   }
-}
