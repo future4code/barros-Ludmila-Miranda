@@ -1,9 +1,13 @@
 header{
   background-color: #04292a;
   margin-top: 0%;
-display: grid;}
+display: grid;
+grid-template-columns: 90%, 10%}
 
-
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  size: initial;
+}
 
 
 
