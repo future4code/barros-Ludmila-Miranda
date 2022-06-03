@@ -1,8 +1,12 @@
 header{
   background-color: #04292a;
-  margin-top: 0%;
   display: grid;
-  grid-template-columns: 90%, 10%
+  grid-template-columns: 90%, 10%;
+  justify-items: start;
+  margin: 0%;
+  padding: 0%;
+
+
 }
 
 h1{
