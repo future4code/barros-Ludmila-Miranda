@@ -7,6 +7,7 @@ header{
   display: grid;
   grid-template-columns: 90%, 10%;
   justify-items: start;
+  align-items: center;
  }
 
 
