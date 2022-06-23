@@ -1,0 +1,23 @@
+*{ 
+  margin: 0%;
+  padding: 0%;}
+
+header{
+  background-color: #04292a;
+  display: grid;
+  grid-template-columns: 90%, 10%;
+  grid-template-rows: 100px;
+  justify-items: start;
+  align-items: center;
+ }
+
+
+
+
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  size: initial;
+}
+
+
+
