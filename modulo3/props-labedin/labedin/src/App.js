@@ -9,7 +9,7 @@ function App() {
       <div className="page-section-container">
         <h2>Dados pessoais</h2>
         <CardGrande 
-          imagem="https://uploads-ssl.webflow.com/5d640f4558306be99cf47a0e/5dd57846babb597b77c6bb1d_PerfilFuture4_cor.png" 
+          imagem="h
           nome="Ludmila Abreu" 
           descricao="Oi, sou a Ludmila! Adoro descobrir coisas novas!"
         />
