@@ -9,7 +9,7 @@ function App() {
       <div className="page-section-container">
         <h2>Dados pessoais</h2>
         <CardGrande 
-          imagem="h
+          imagem= "C:\Users\ludmi\barros-Ludmila-Miranda\modulo3\props-labedin\labedin\src\components\IMG_20210827_232737_089.jpg"
           nome="Ludmila Abreu" 
           descricao="Oi, sou a Ludmila! Adoro descobrir coisas novas!"
         />
